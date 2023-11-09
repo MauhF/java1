@@ -1,0 +1,36 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+body {
+    background-image: url("https://www.restauracell.net.br/wp-content/uploads/bnn3-1024x779.jpg");
+  }
+
+form {
+    border: 1px solid #000000;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
